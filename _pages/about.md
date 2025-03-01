@@ -28,37 +28,28 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/seqafford.png' alt="sym" width="100%"></div></div>
+<div class="paper-box-text">
+    <p><a href="https://arxiv.org/pdf/2412.01550">SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model</a></p>
+    Chulin Yu#, **Hanqing Wang#**, Ye Shi, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang    <p>
+    <p>CVPR, 2025
+    <p><a href="https://seq-afford.github.io/">**Project Page**</a></p>
   </div>
-</div>
-[SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model](https://arxiv.org/pdf/2412.01550)
-
-Chulin Yu#, **Hanqing Wang#**, Ye Shi, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang
-[**Project**](https://seq-afford.github.io/) 
-</p> CVPR, 2025 </p>
-</div>
 </div>
 
 # 🎖 Honors and Awards
 - *2024.06* Outstanding Graduate in <a href="http://aia.hust.edu.cn/"> HUST</a>!
 - *2023* China University Robot Competition of ROBOCON, <b>First Prize</b>
 - *2023* <b>"SIEMENS Cup"</b> China Intelligent Manufacturing Challenge, <b>Second Prize</b>
-- *2022* </p>China University Robot Competition of ROBOCON, <b>First Prize</b>
-- *2022* </p>RoboCom Robot developer competition, <b>Third Prize</b>
+- *2022* China University Robot Competition of ROBOCON, <b>First Prize</b>
+- *2022* RoboCom Robot developer competition, <b>Third Prize</b>
 - *2022* Scholarship of Scientific and Technological Innovation, HUST
-- *2022* </p>Freshman scholarship, HUST
+- *2022* Freshman scholarship, HUST
 
 # 📖 Educations
 - *2024.09 - Present (now)*, ShanghaiTech University, Computer Science. 
 - *2020.09 - 2024.06*, Huazhong University of Science and Technology, Automation. 
 
-# 💬 Invited Talks
 
 
-# 💻 Internships
 
