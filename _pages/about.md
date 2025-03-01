@@ -49,8 +49,8 @@ CVPR, 2025
 - *2023* <b>"SIEMENS Cup"</b> China Intelligent Manufacturing Challenge, <b>Second Prize</b>
 - *2022* China University Robot Competition of ROBOCON, <b>First Prize</b>
 - *2022* RoboCom Robot developer competition, <b>Third Prize</b>
-- *2022* Scholarship of Scientific and Technological Innovation, HUST
-- *2022* Freshman scholarship, HUST
+- *2021* Scholarship of Scientific and Technological Innovation, HUST
+- *2020* Freshman scholarship, HUST
 
 # 📖 Educations
 - *2024.09 - Present (now)*, ShanghaiTech University, Computer Science. 
