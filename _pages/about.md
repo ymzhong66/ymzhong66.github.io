@@ -56,7 +56,7 @@ CVPR, 2025
 - *2024.09 - Present (now)*, ShanghaiTech University, Computer Science. 
 - *2020.09 - 2024.06*, Huazhong University of Science and Technology, Automation. 
 
-💻  Experience
+# 💻 Experience
 - *2022.07 - 2022.08 *, Outstanding Member in <a href="https://www.innoxsz.com/">Shenzhen InnoX Academy</a>. 
 - *2020.11 - 2023.09 *, Robocon Team in HUST. 
 
