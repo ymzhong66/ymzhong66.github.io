@@ -38,6 +38,8 @@ redirect_from:
 Chulin Yu\*, **Hanqing Wang\***, Ye Shi, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang
 
 CVPR, 2025
+
+[Project Page]([https://arxiv.org/abs/2409.02914](https://seq-afford.github.io/))
 </div>
 </div>
 
@@ -55,6 +57,6 @@ CVPR, 2025
 - *2020.09 - 2024.06*, Huazhong University of Science and Technology, Automation. 
 
 💻  Experience
-- *2022.07 - 2022.08 *, Outstanding InnoX Member in <a href="https://www.innoxsz.com/"></a>. 
+- *2022.07 - 2022.08 *, Outstanding Member in <a href="https://www.innoxsz.com/">Shenzhen InnoX Academy</a>. 
 - *2020.11 - 2023.09 *, Robocon Team in HUST. 
 
