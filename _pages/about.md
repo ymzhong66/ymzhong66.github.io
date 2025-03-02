@@ -29,7 +29,7 @@ redirect_from:
 - *2024.06*: &nbsp;🎉🎉I was honored to be selected as an outstanding graduate in HUST. 
 
 
-# 📝 Publications 
+# 📝 Publications(\* Indicates Equal Contribution)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/seqafford.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
