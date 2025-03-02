@@ -33,13 +33,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/seqafford.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model](https://arxiv.org/abs/2409.02914)
+[SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model](https://arxiv.org/pdf/2412.01550)
 
 Chulin Yu\*, **Hanqing Wang\***, Ye Shi, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang
 
 CVPR, 2025
 
-[Project Page]([https://arxiv.org/abs/2409.02914](https://seq-afford.github.io/))
+[Project Page](https://seq-afford.github.io/)
 </div>
 </div>
 
