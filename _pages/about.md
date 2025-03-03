@@ -14,9 +14,6 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-Hi, I'm Yiming Zhong, 
-            a graduate of Shandong University's School of Mathematics and Statistics. I'm currently pursuing my Master's degree at the Visual & Data Intelligence (VDI) Center 4DVLab at ShanghaiTech University,
-             under the supervision of Professor <a href="http://yuexinma.me/">Yuexin Ma</a>. My current research interests include computer vision,machine learning, and their applications in embodied AI."
 <span class='anchor' id='about-me'></span>
 
  Hello, I am Yiming Zhong, a master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, 4DVLab advised by <a href="http://yuexinma.me/">Yuexin Ma</a>.in ShanghaiTech.Before that, I got my bachelor's degree
