@@ -47,6 +47,30 @@ CVPR, 2025
 
 
 # 📖 Educations
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**ShanghaiTech University**</span>
+
+September 2024 - Now
+
+  Major: Master. in Computer Science
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/sdu.JPG' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**Huazhong University of Science and Technology**</span>
+
+September 2020 - July 2024
+
+Major: B.E. in Automation Engineering
+
+</div>
+</div>
+
 - *2024.09 - Present (now)*, ShanghaiTech University, Computer Science. 
 - *2020.09 - 2024.06*, Shandong University, Statistics. 
 
