@@ -66,7 +66,7 @@ September 2024 - Now
 
 September 2020 - July 2024
 
-Major: B.E. in Automation Engineering
+Major: B.E. in Statistics
 
 </div>
 </div>
