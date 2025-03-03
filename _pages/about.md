@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 
- Hello, I am Yiming Zhong, a master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, 4DVLab advised by <a href="http://yuexinma.me/">Yuexin Ma（马月昕）</a>.in ShanghaiTech.Before that, I got my bachelor's degree
+ Hello, I am Yiming Zhong, a master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, 4DVLab advised by <a href="http://yuexinma.me/">Yuexin Ma(马月昕)</a>.in ShanghaiTech.Before that, I got my bachelor's degree
             at School of Mathematics and Statistics, Shandong University,
             I'm currently interested in computer vision, machine learning, and their applications in robotics.
             If you have any questions, feel free to drop me an email!
