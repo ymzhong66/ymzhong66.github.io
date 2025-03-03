@@ -30,25 +30,30 @@ Hi, I'm Yiming Zhong,
 
 
 
-# 📝 Publications(\* Indicates Equal Contribution)
+<!-- # 📝 Publications(\* Indicates Equal Contribution)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/seqafford.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model](https://arxiv.org/pdf/2412.01550)
 
+Chulin Yu\*, **Hanqing Wang\***, Ye Shi, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang
+
+CVPR, 2025
+
+[Project Page](https://seq-afford.github.io/)
 </div>
-</div>
+</div> -->
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Graduate in <a href="http://aia.hust.edu.cn/"> HUST</a>!
 - *2023* Mathematical Contest In Modeling(MCM), <b>Finalist Grand Prize</b>
 - *2022* China Undergraduate Mathematical Contest in Modeling(CUMCM), <b>National First Prize</b>
 
 
 # 📖 Educations
 - *2024.09 - Present (now)*, ShanghaiTech University, Computer Science. 
-- *2020.09 - 2024.06*, Huazhong University of Science and Technology, Automation. 
+- *2020.09 - 2024.06*, Shandong University, Statistics. 
 
 # 💻 Experience
-- *2022.07 - 2022.08 *, Outstanding Member in <a href="https://www.innoxsz.com/">Shenzhen InnoX Academy</a>. 
-- *2020.11 - 2023.09 *, Robocon Team in HUST. 
+<!-- - *2022.07 - 2022.08 *, Outstanding Member in <a href="https://www.innoxsz.com/">Shenzhen InnoX Academy</a>. 
+- *2020.11 - 2023.09 *, Robocon Team in HUST.  -->
 
