@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yiming Zhong"
-  avatar           : "images/cat.jpg"
+  avatar           : "images/sdu.jpg"
   bio              : "ShanghaiTech University"
   location         : "ShangHai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.cz/citations?user=OeVwcDcAAAAJ&hl=zh-CN"
-  email            : "wanghq2024@shanghaitech.edu.cn"
+  email            : "zhongyiming2024@shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hq-King"
+  github           : "Gaussion Zhong"
   google_plus      :
   keybase          :
   instagram        :
