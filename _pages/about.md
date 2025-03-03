@@ -42,7 +42,7 @@ CVPR, 2025
 </div> -->
 
 # 🎖 Honors and Awards
-- *2023* Mathematical Contest In Modeling(MCM), <b>Finalist Grand Prize</b>
+- *2023* Mathematical Contest In Modeling(MCM), <b>Finalist Prize</b>
 - *2022* China Undergraduate Mathematical Contest in Modeling(CUMCM), <b>National First Prize</b>
 
 
