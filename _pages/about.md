@@ -31,13 +31,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/image1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DexGraspAnything: Towards Universal Robotic Dexterous Grasping with Physics Awareness]<!-- (https://arxiv.org/pdf/2412.01550) -->
+[DexGraspAnything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](https://arxiv.org/%3CARXIV%20PAPER%20ID%3E)
 
 **Yiming Zhong\***, Qi Jiang\*, Jingyi Yu, Yuexin Ma<sup>†</sup>
 
 CVPR, 2025
 
-[Project Page](https://dexgraspanything.github.io/)
+[Project Page](https://dexgraspanything.github.io/) [Code](https://dexgraspanything.github.io/)
 </div>
 </div>
 
