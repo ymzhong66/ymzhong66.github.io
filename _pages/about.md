@@ -37,7 +37,7 @@ redirect_from:
 
 CVPR, 2025
 
-[Project Page](https://dexgraspanything.github.io/)             [Code](https://dexgraspanything.github.io/)
+[Project Page](https://dexgraspanything.github.io/)     [Code](https://dexgraspanything.github.io/)
 </div>
 </div>
 
