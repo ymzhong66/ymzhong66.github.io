@@ -27,19 +27,19 @@ redirect_from:
 
 
 
-<!-- # 📝 Publications(\* Indicates Equal Contribution)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/seqafford.png' alt="sym" width="100%"></div></div>
+# 📝 Publications(\* Indicates Equal Contribution \+ Indicates Corresponding Author)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/image1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model](https://arxiv.org/pdf/2412.01550)
+[DexGraspAnything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](https://arxiv.org/pdf/2412.01550)
 
-Chulin Yu\*, **Hanqing Wang\***, Ye Shi, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang
+**Yiming Zhong\***, Qi Jiang\*, Jingyi Yu, Yuexin Ma\+
 
 CVPR, 2025
 
-[Project Page](https://seq-afford.github.io/)
+[Project Page](https://dexgraspanything.github.io/)
 </div>
-</div> -->
+</div>
 
 # 🎖 Honors and Awards
 - *2023* Mathematical Contest In Modeling(MCM), <b>Finalist Prize</b>
