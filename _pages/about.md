@@ -31,7 +31,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/image1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DexGraspAnything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](https://arxiv.org/%3CARXIV%20PAPER%20ID%3E)
+[DexGraspAnything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](https://arxiv.org/pdf/2503.08257)
 
 **Yiming Zhong\***, Qi Jiang\*, Jingyi Yu, Yuexin Ma<sup>†</sup>
 
@@ -44,8 +44,8 @@ CVPR, 2025
 </div>
 
 # 🎖 Honors and Awards
-- *2023* Mathematical Contest In Modeling(MCM), <b>Finalist Prize</b>
-- *2022* China Undergraduate Mathematical Contest in Modeling(CUMCM), <b>National First Prize</b>
+- *2023* Mathematical Contest In Modeling(MCM), <b>Finalist Prize</b><b>(Top 0.5% among 54,257 teams)</b>
+- *2022* China Undergraduate Mathematical Contest in Modeling(CUMCM), <b>National First Prize</b><b>(Top 1%)</b>
 
 
 # 📖 Educations
@@ -80,3 +80,7 @@ Major: B.E. in Statistics
 <!-- - *2022.07 - 2022.08 *, Outstanding Member in <a href="https://www.innoxsz.com/">Shenzhen InnoX Academy</a>. 
 - *2020.11 - 2023.09 *, Robocon Team in HUST.  -->
 
+<h1 id="-hobbies">🎨 Hobbies</h1>
+<p style="color: black; margin: 0%; font-weight: 350;">
+  🎮 FPS Games, 🏀 Basketball
+</p>
