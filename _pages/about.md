@@ -22,9 +22,6 @@ redirect_from:
             If you have any questions, feel free to drop me an email!
 
 
-# 🔥 News
-- *2025.02*: &nbsp;🎉🎉1 paper accepted to CVPR 2025.
-
 
 
 # 📝 Publications(\* Indicates Equal Contribution <sup>†</sup> Indicates Corresponding Author)
