@@ -1,14 +1,52 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src= "{{ s.image }}" alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
+<div class="sidebar sticky">
+  {% if page.author_profile or layout.author_profile %}{% include
+  author-profile.html %}{% endif %} {% if page.sidebar %} {% for s in
+  page.sidebar %} {% if s.image %}
+  <img
+    src="{{ s.image }}"
+    alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}"
+  />
+  {% endif %} {% if s.title %}
+  <h3>{{ s.title }}</h3>
+  {% endif %} {% if s.text %}{{ s.text | markdownify }}{% endif %} {% endfor %}
   {% endif %}
-  </div>
+  <h1>🔥 News</h1>
+
+  <ul class="news">
+
+    <li>
+      <p>
+        <a class="red-label">2025.2.27</a>&nbsp; 🎉🎉1 paper accepted to CVPR 2025.
+      </p>
+    </li>
+
+    
+    <li>
+      <p>
+        <a class="red-label">2023.10</a>: &nbsp; I joined 4DV Lab in ShanghaiTech University.
+      </p>
+    </li>
+
+    <!-- <li>
+      <p>
+        <a class="red-label">2023.05</a>: &nbsp; I was awarded 2rd Prize in
+        Challenge Cup at Tsinghua 🎉
+      </p>
+    </li>
+    <li>
+      <p>
+        <a class="red-label">2023.05</a>: &nbsp; I joined the start-up of
+        <a href="https://ai-anywhere.com/">AI-anywhere</a>. Hope to contribute
+        more!
+      </p>
+    </li>
+    <li>
+      <p>
+        <a class="red-label">2022.06</a>: &nbsp; I joined PCG group in
+        Tsinghua as a Undergrad. Research Assistant.
+      </p>
+    </li> -->
+  </ul>
+</div>
 {% endif %}
