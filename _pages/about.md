@@ -84,3 +84,5 @@ Major: B.E. in Statistics
 <p style="color: black; margin: 0%; font-weight: 350;">
   🎮 FPS Games, 🏀 Basketball
 </p>
+
+
