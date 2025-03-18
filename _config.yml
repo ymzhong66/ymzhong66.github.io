@@ -126,6 +126,13 @@ defaults:
     values:
       layout: default
       author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: default
+      author_profile: true
 
 
 # Sass/SCSS
