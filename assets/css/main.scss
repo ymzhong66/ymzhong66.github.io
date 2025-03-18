@@ -56,8 +56,9 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            max-width: 350px;
+            border-radius: 20px;
+            box-shadow: 0 0 2px rgba(0,0,0,0.5);
             object-fit: cover;
         }
     }
@@ -71,14 +72,14 @@
         .paper-box-image{
             justify-content: left;
             min-width: 200px;
-            max-width: 40%;
+            max-width: 35%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 60%;
+            max-width: 65%;
             order: 2;
         }
 
@@ -97,7 +98,20 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
-.badge {
+.badge-coming {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #92c7d6;  // #3fd93f
+    z-index: 1;            // 确保在图片上方
+    transform: translateY(-100%); // 完全移到图片外面
+    font-size: .8em;
+}
+
+.badge-IMWUT {
     padding-left: 1rem;
     padding-right: 1rem;
     position: absolute;
@@ -105,5 +119,29 @@ h1:before, .anchor:before {
     margin-left: -.5em;
     color: white;
     background-color: #00369f;
+    z-index: 1;            // 确保在图片上方
+    transform: translateY(-100%); // 完全移到图片外面
+    font-size: .8em;
+}
+
+// .badge-IMWUT {
+//     padding-left: 1rem;
+//     padding-right: 1rem;
+//     position: absolute;
+//     margin-top: .5em;
+//     margin-left: -.5em;
+//     color: white;
+//     background-color: #00369f;
+//     font-size: .8em;
+// }
+
+.badge-CHI {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #cd2020;
     font-size: .8em;
 }
