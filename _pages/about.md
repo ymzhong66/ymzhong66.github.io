@@ -41,8 +41,8 @@ CVPR, 2025
 </div>
 
 # 🎖 Honors and Awards
-- *2023* Mathematical Contest In Modeling(MCM), <b>Finalist Prize</b><b>(Top 0.5% among 54,257 teams)</b>
-- *2022* China Undergraduate Mathematical Contest in Modeling(CUMCM), <b>National First Prize</b><b>(Top 1%)</b>
+- *2023* Mathematical Contest In Modeling(MCM), <b>Finalist Prize</b><b>(Top 1%)</b>
+- *2022* China Undergraduate Mathematical Contest in Modeling(CUMCM), <b>National First Prize</b><b>(Top 0.5% among 54,257 teams)</b>
 
 
 # 📖 Educations
