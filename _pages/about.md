@@ -75,7 +75,7 @@ redirect_from:
     <p>
       <b>Yiming Zhong*</b>, Qi Jiang*, Jingyi Yu, Yuexin Ma†
     </p>
-    <p>This paper explores reconstructing hand-object interactions from a single-view image. We develop a pipeline to estimate hand pose and object shape using large models and apply a prior-guided optimization to adjust the hand pose, ensuring it meets 3D physical constraints while aligning with the 2D image. </p>
+    <p>This paper proposes DexGrasp Anything, a diffusion-based method for generating physically plausible grasps with dexterous hands. By integrating physical constraints into both training and sampling, we address high-DOF challenges while synthesizing robust poses for diverse objects. Our 3.4M-grasp dataset (15k+ objects) enables scalable learning, achieving state-of-the-art performance in universal robotic grasping across benchmarks. </p>
     <a href="https://arxiv.org/pdf/2503.08257" class="pdf-link" target="_blank">PDF</a>
     <a href="https://dexgraspanything.github.io/" class="paper-box-link" target="_blank">Page</a>
     <a href="https://github.com/4DVLab/DexGrasp-Anything" class="paper-box-link" target="_blank">Github <i
@@ -93,7 +93,7 @@ redirect_from:
   </li>
 
   <li>
-    <a class="red-label">09/2022</a> China Undergraduate Mathematical Contest in Modeling(CUMCM) <b>National First Prize(Top 0.5% among 54,257 teams)</b>
+    <a class="red-label">09/2022</a> China Undergraduate Mathematical Contest in Modeling(CUMCM) <b>National First Prize(Top 0.5%)</b>
   </li>
 
 </ul>
@@ -122,9 +122,6 @@ Major: B.E. in Statistics
 
 </div>
 </div>
-
-- *2024.09 - Present (now)*, ShanghaiTech University, Computer Science. 
-- *2020.09 - 2024.06*, Shandong University, Statistics. 
 
 <!-- # 💻 Experience -->
 <!-- - *2022.07 - 2022.08 *, Outstanding Member in <a href="https://www.innoxsz.com/">Shenzhen InnoX Academy</a>. 
