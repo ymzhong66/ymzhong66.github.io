@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 
- Hello, I am Yiming Zhong, a master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, 4DVLab advised by <a href="http://yuexinma.me/">Yuexin Ma(马月昕)</a>.in ShanghaiTech.Before that, I got my bachelor's degree
+ Hello, I am  <a class="red-label">Yiming Zhong</a>, a master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, 4DVLab advised by <a href="http://yuexinma.me/">Yuexin Ma(马月昕)</a>.in ShanghaiTech.Before that, I got my bachelor's degree
             at Shandong University,
             I'm currently interested in computer vision, machine learning, and their applications in robotics.
             If you have any questions, feel free to drop me an email!
@@ -24,26 +24,71 @@ redirect_from:
 
 
 
-# 📝 Publications(\* Indicates Equal Contribution <sup>†</sup> Indicates Corresponding Author)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/image1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<h1 id="-publications">📝 Publications</h1>
+<p style="color: #3f446a; margin: 0%; font-weight: 350;">* Indicates Equal Contribution <sup>†</sup> Indicates Corresponding Author</p>
 
-[DexGraspAnything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](https://arxiv.org/pdf/2503.08257)
 
-**Yiming Zhong\***, Qi Jiang\*, Jingyi Yu, Yuexin Ma<sup>†</sup>
 
-CVPR, 2025
-
-<a href="https://dexgraspanything.github.io/" target="_blank" style="margin-right: 20px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path></svg>Project Page</a>
-<a href="https://github.com/4DVLab/DexGrasp-Anything" class="paper-box-link" target="_blank">Github <i
-     class="fab fa-github"></i> </a>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge-coming"><b>Coming Soon</b></div>
+      <img src="images/EvolvingGrasp.png" alt="sym" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <a style="text-decoration: underline;" href="https://evolvinggrasp.github.io/">EvolvingGrasp: Evolutionary Grasp Generation via Efficient Preference Alignment</a>
+    </p>
+    <p>
+      Yufei Zhu*, Yiming Zhong*, <b>Zemin Yang</b>, Peishan Cong, Jingyi Yu, Xinge Zhu, Yuexin Ma
+    </p>
+    <p>This paper introduces EvolvingGrasp, which integrates Handpose-wise Preference Optimization with a Physics-aware Consistency Model to enable efficient evolutionary grasp generation, achieving improved grasp success rates and computational efficiency. </p>
+    <a href="https://arxiv.org/pdf/2503.14329" class="pdf-link" target="_blank">PDF</a>
+    <a href="https://evolvinggrasp.github.io/" class="paper-box-link" target="_blank">Page</a>
+    <a href="https://evolvinggrasp.github.io/" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+  </div>
 </div>
+
+
+
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge-IMWUT"><b>CVPR 2025</b></div>
+      <img src="images/image1.png" alt="sym" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <a style="text-decoration: underline;" href="https://dexgraspanything.github.io/">DexGraspAnything: Towards Universal Robotic Dexterous Grasping with Physics Awareness</a>
+    </p>
+    <p>
+      <b>Yiming Zhong*<b>, Qi Jiang\*, Jingyi Yu, Yuexin Ma<sup>†</sup>
+    </p>
+    <p>This paper explores reconstructing hand-object interactions from a single-view image. We develop a pipeline to estimate hand pose and object shape using large models and apply a prior-guided optimization to adjust the hand pose, ensuring it meets 3D physical constraints while aligning with the 2D image. </p>
+    <a href="https://arxiv.org/pdf/2503.08257" class="pdf-link" target="_blank">PDF</a>
+    <a href="https://dexgraspanything.github.io/" class="paper-box-link" target="_blank">Page</a>
+    <a href="https://github.com/4DVLab/DexGrasp-Anything" class="paper-box-link" target="_blank">Github <i
+        class="fab fa-github"></i> </a>
+  </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2023* Mathematical Contest In Modeling(MCM), <b>Finalist Prize</b><b>(Top 1%)</b>
-- *2022* China Undergraduate Mathematical Contest in Modeling(CUMCM), <b>National First Prize</b><b>(Top 0.5% among 54,257 teams)</b>
 
+
+<h1 id="-honors-and-awards">🎖 Honors and Awards</h1>
+<ul>
+
+  <li>
+    <a class="red-label">05/2023</a> Mathematical Contest In Modeling(MCM) <b>Finalist Prize(Top 1%)</b>
+  </li>
+
+  <li>
+    <a class="red-label">09/2022</a> China Undergraduate Mathematical Contest in Modeling(CUMCM) <b>National First Prize(Top 0.5% among 54,257 teams)</b>
+  </li>
+
+</ul>
 
 # 📖 Educations
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
