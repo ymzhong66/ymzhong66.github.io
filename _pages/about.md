@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <p><span class="anchor" id="about-me"></span></p>
 <p>
- Hello, I am  <a class="red-label">Yiming Zhong</a>, a master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, 4DVLab advised by <a href="http://yuexinma.me/">Yuexin Ma(马月昕)</a>.in (<a href="https://www.shanghaitech.edu.cn/zs/list.htm">ShanghaiTech</a>).Before that, I got my bachelor's degree
+ Hello, I am  <a class="red-label">Yiming Zhong</a>, a master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, 4DVLab advised by <a href="http://yuexinma.me/">Yuexin Ma(马月昕)</a>.in <a href="https://www.shanghaitech.edu.cn/zs/list.htm">ShanghaiTech</a>.Before that, I got my bachelor's degree
             at Shandong University,
             I'm currently interested in computer vision, machine learning, and their applications in robotics.
             If you have any questions, feel free to drop me an email!
