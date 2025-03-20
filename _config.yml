@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Gaussion Zhong"
-# description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-# repository               : "RayeRen/acad-homepage.github.io"
+description              : ""
+repository               : "ymzhong66/ymzhong66.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -97,14 +97,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -139,7 +137,6 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:categories/:title/
