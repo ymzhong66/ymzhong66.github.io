@@ -4,10 +4,35 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
+          <!-- <li
+            class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"
+          >
+            <a style="font-size: 16pt" href="/" target="_self"
+              ><i class="fas fa-home"></i> Homepage</a
+            >
+          </li> -->
+
+          <!-- <li class="masthead__menu-item">
+            <a
+              style="font-size: 16pt"
+              href="{{ domain }}research"
+              target="_self"
+              ><i class="fas fa-search"></i> Research</a
+            >
+          </li> -->
+
+          <!-- <li class="masthead__menu-item">
+            <a style="font-size: 16pt" href="{{ domain }}CV" target="_self"
+              ><i class="fas fa-file-pdf"></i> CV</a
+            >
+          </li> -->
+
+          <!-- <li class="masthead__menu-item2"></li>
+            <a style="font-size: 16pt" href="https://yangzm.net/" target="_self"
+              ><i class="fas fa-book"></i> <b>Blog</b></a
+            >
+          </li> -->
+
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

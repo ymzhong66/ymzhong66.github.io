@@ -10,7 +10,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(9.5 of 12 last);
     @include prefix(0.5 of 12);
   }
 
@@ -50,7 +50,6 @@
 
 /* remove border*/
 .page__content {
-
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
@@ -84,7 +83,6 @@
   }
 }
 
-
 /*
    List view
    ========================================================================== */
@@ -106,7 +104,6 @@
     margin: 0 0 4px;
   }
 }
-
 
 /*
    Grid view
@@ -150,7 +147,6 @@
     }
   }
 }
-
 
 /*
    Features
