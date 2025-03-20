@@ -14,14 +14,22 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-<span class='anchor' id='about-me'></span>
-
+<p><span class="anchor" id="about-me"></span></p>
+<p>
  Hello, I am  <a class="red-label">Yiming Zhong</a>, a master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, 4DVLab advised by <a href="http://yuexinma.me/">Yuexin Ma(马月昕)</a>.in ShanghaiTech.Before that, I got my bachelor's degree
             at Shandong University,
             I'm currently interested in computer vision, machine learning, and their applications in robotics.
             If you have any questions, feel free to drop me an email!
-
-
+</p>
+<p>
+  
+</p>
+<p>
+  
+</p>
+<p>
+  
+</p>
 
 
 <h1 id="-publications">📝 Publications</h1>
@@ -41,7 +49,7 @@ redirect_from:
       <a style="text-decoration: underline;" href="https://evolvinggrasp.github.io/">EvolvingGrasp: Evolutionary Grasp Generation via Efficient Preference Alignment</a>
     </p>
     <p>
-      Yufei Zhu*, <b>Yiming Zhong*<b>, Zemin Yang, Peishan Cong, Jingyi Yu, Xinge Zhu, Yuexin Ma
+      Yufei Zhu*, <b>Yiming Zhong*<b>, Zemin Yang, Peishan Cong, Jingyi Yu, Xinge Zhu, Yuexin Ma†
     </p>
     <p>This paper introduces EvolvingGrasp, which integrates Handpose-wise Preference Optimization with a Physics-aware Consistency Model to enable efficient evolutionary grasp generation, achieving improved grasp success rates and computational efficiency. </p>
     <a href="https://arxiv.org/pdf/2503.14329" class="pdf-link" target="_blank">PDF</a>
