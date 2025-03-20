@@ -25,7 +25,7 @@ redirect_from:
 
 
 <h1 id="-publications">📝 Publications</h1>
-<p style="color: #3f446a; margin: 0%; font-weight: 350;">* Indicates Equal Contribution <sup>†</sup> Indicates Corresponding Author</p>
+<p style="color: #3f446a; margin: 0%; font-weight: 350;">* Indicates Equal Contribution † Indicates Corresponding Author</p>
 
 
 
@@ -41,7 +41,7 @@ redirect_from:
       <a style="text-decoration: underline;" href="https://evolvinggrasp.github.io/">EvolvingGrasp: Evolutionary Grasp Generation via Efficient Preference Alignment</a>
     </p>
     <p>
-      Yufei Zhu*, Yiming Zhong*, <b>Zemin Yang</b>, Peishan Cong, Jingyi Yu, Xinge Zhu, Yuexin Ma
+      Yufei Zhu*, <b>Yiming Zhong*<b>, Zemin Yang, Peishan Cong, Jingyi Yu, Xinge Zhu, Yuexin Ma
     </p>
     <p>This paper introduces EvolvingGrasp, which integrates Handpose-wise Preference Optimization with a Physics-aware Consistency Model to enable efficient evolutionary grasp generation, achieving improved grasp success rates and computational efficiency. </p>
     <a href="https://arxiv.org/pdf/2503.14329" class="pdf-link" target="_blank">PDF</a>
@@ -57,7 +57,7 @@ redirect_from:
   <div class="paper-box-image">
     <div>
       <div class="badge-IMWUT"><b>CVPR 2025</b></div>
-      <img src="images/image1.png" alt="sym" width="100%" />
+      <img src="images/dexgraspanyting.png" alt="sym" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
@@ -65,7 +65,7 @@ redirect_from:
       <a style="text-decoration: underline;" href="https://dexgraspanything.github.io/">DexGraspAnything: Towards Universal Robotic Dexterous Grasping with Physics Awareness</a>
     </p>
     <p>
-      <b>Yiming Zhong*<b>, Qi Jiang\*, Jingyi Yu, Yuexin Ma<sup>†</sup>
+      <b>Yiming Zhong*<b>, Qi Jiang*, Jingyi Yu, Yuexin Ma†
     </p>
     <p>This paper explores reconstructing hand-object interactions from a single-view image. We develop a pipeline to estimate hand pose and object shape using large models and apply a prior-guided optimization to adjust the hand pose, ensuring it meets 3D physical constraints while aligning with the 2D image. </p>
     <a href="https://arxiv.org/pdf/2503.08257" class="pdf-link" target="_blank">PDF</a>
