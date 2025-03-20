@@ -53,7 +53,8 @@ redirect_from:
     </p>
     <p>This paper introduces EvolvingGrasp, which integrates Handpose-wise Preference Optimization with a Physics-aware Consistency Model to enable efficient evolutionary grasp generation, achieving improved grasp success rates and computational efficiency. </p>
     <a href="https://arxiv.org/pdf/2503.14329" class="pdf-link" target="_blank">PDF</a>
-    <a href="https://evolvinggrasp.github.io/" class="paper-box-link" target="_blank">Page</a>
+    <a href="https://evolvinggrasp.github.io/" class="paper-box-link" target="_blank">
+    Page <i class="fas fa-external-link-alt"></i></a>
     <a href="https://evolvinggrasp.github.io/" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
   </div>
 </div>
@@ -77,7 +78,8 @@ redirect_from:
     </p>
     <p>This paper proposes DexGrasp Anything, a diffusion-based method for generating physically plausible grasps with dexterous hands. By integrating physical constraints into both training and sampling, we address high-DOF challenges while synthesizing robust poses for diverse objects. Our 3.4M-grasp dataset (15k+ objects) enables scalable learning, achieving state-of-the-art performance in universal robotic grasping across benchmarks. </p>
     <a href="https://arxiv.org/pdf/2503.08257" class="pdf-link" target="_blank">PDF</a>
-    <a href="https://dexgraspanything.github.io/" class="paper-box-link" target="_blank">Page</a>
+    <a href="https://dexgraspanything.github.io/" class="paper-box-link" target="_blank">
+    Page <i class="fas fa-external-link-alt"></i></a>
     <a href="https://github.com/4DVLab/DexGrasp-Anything" class="paper-box-link" target="_blank">Github <i
         class="fab fa-github"></i> </a>
   </div>
