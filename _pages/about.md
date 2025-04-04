@@ -65,7 +65,7 @@ redirect_from:
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge-IMWUT"><b>CVPR 2025 <span class="highlight-blue">(Highlight)</span></b></div>
+      <div class="badge-IMWUT"><b>CVPR 2025 (Highlight)</b></div>
       <img src="images/dexgraspanyting.png" alt="sym" width="100%" />
     </div>
   </div>
