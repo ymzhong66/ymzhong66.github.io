@@ -132,7 +132,7 @@ Major: B.E. in Statistics
 <h1 id="-hobbies">🎨 Hobbies</h1>
 <p style="color: black; margin: 0%; font-weight: 350;">
   
-  🎮 FPS Games, 🏀 Basketball
+  🚴🏻‍♂️ Cycling, 🎮 FPS Games, 🏀 Basketball
   
 </p>
 
