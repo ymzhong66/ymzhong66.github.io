@@ -120,7 +120,7 @@ September 2024 - Now
 
 September 2020 - July 2024
 
-Major: B.E. in Statistics
+Major: B.E. in Statistics; Second Major: Computer Science
 
 </div>
 </div>
