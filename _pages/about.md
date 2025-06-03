@@ -39,7 +39,7 @@ redirect_from:
   <div class="paper-box-image">
     <div>
       <div class="badge-coming"><b>Under review</b></div>
-      <img src="images/FreqPolicy.png" alt="sym" width="100%" />
+      <img src="images/Freqpolicy.png" alt="sym" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
