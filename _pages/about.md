@@ -35,12 +35,32 @@ redirect_from:
 <h1 id="-publications">📝 Publications</h1>
 <p style="color: #3f446a; margin: 0%; font-weight: 350;">* Indicates Equal Contribution † Indicates Corresponding Author</p>
 
-
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge-coming"><b>Under review</b></div>
+      <img src="images/FreqPolicy.png" alt="sym" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <a style="text-decoration: underline;" href="https://freq-policy.github.io/">FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens</a>
+    </p>
+    <p>
+      <b>Yiming Zhong</b>, Yumeng Liu, Chuyang Xiao, Zemin Yang, Youzhuo Wang, Yufei Zhu, Yujing Sun, Xinge Zhu, Yuexin Ma†
+    </p>
+    <p>This paper proposes FreqPolicy, a frequency-domain autoregressive visuomotor policy that progressively models hierarchical frequency components with continuous latent representations, achieving superior accuracy and efficiency in robotic manipulation tasks.</p>
+    <a href="https://arxiv.org/pdf/2506.01583" class="pdf-link" target="_blank">PDF</a>
+    <a href="https://freq-policy.github.io/" class="paper-box-link" target="_blank">
+    Page <i class="fas fa-external-link-alt"></i></a>
+    <a href="https://freq-policy.github.io/" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+  </div>
+</div>
 
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge-coming"><b>Coming Soon</b></div>
+      <div class="badge-coming"><b>Under review</b></div>
       <img src="images/EvolvingGrasp.png" alt="sym" width="100%" />
     </div>
   </div>
