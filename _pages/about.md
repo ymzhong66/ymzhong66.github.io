@@ -60,6 +60,28 @@ redirect_from:
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <div class="badge-coming"><b>ICCV 2025</b></div>
+      <img src="images/DexH2R.png" alt="sym" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <a style="text-decoration: underline;" href="">DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover</a>
+    </p>
+    <p>
+      Youzhuo Wang*, Jiayi Ye*, Chuyang Xiao, <b>Yiming Zhong</b>, Heng Tao, Hang Yu, Yumeng Liu, Jingyi Yu, Yuexin Ma†
+    </p>
+    <p>This paper introduces DexH2R, a real-world dataset for human-to-robot handovers featuring dexterous motions, diverse objects, and rich annotations. Using teleoperation, it captures natural human-like behaviors for robotic learning. </p>
+    <a href="https://arxiv.org/pdf/2506.23152" class="pdf-link" target="_blank">PDF</a>
+    <a href="https://dexh2r.github.io/" class="paper-box-link" target="_blank">
+    Page <i class="fas fa-external-link-alt"></i></a>
+    <a href="https://dexh2r.github.io/" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <div class="badge-IMWUT"><b>ICCV 2025</b></div>
       <img src="images/EvolvingGrasp.png" alt="sym" width="100%" />
     </div>
