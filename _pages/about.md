@@ -97,7 +97,7 @@ redirect_from:
     <a href="https://arxiv.org/pdf/2503.14329" class="pdf-link" target="_blank">PDF</a>
     <a href="https://evolvinggrasp.github.io/" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
-    <a href="https://evolvinggrasp.github.io/" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+    <a href="https://github.com/4DVLab/EvolvingGrasp?tab=readme-ov-file/" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
   </div>
 </div>
 
