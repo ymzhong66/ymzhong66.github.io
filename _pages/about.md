@@ -50,7 +50,7 @@ in Multimodal Large Language Model</a>
     <p>
       Hanqing Wang*, Shaoyang Wang*, <b>Yiming Zhong</b>, Zemin Yang, Jiamin Wang, Zhiqing Cui,Jiahao Yuan, Yifan Han, Mingyu Liu, Yuexin Ma†
     </p>
-    <p>This paper proposes FreqPolicy, a frequency-domain autoregressive visuomotor policy that progressively models hierarchical frequency components with continuous latent representations, achieving superior accuracy and efficiency in robotic manipulation tasks.</p>
+    <p>We introduce Affordance-R1, which is capable of generating explicit reasoning alongside the final answer. With the help of proposed affordance reasoning reward, it achieves robust zero-shot generalization and exhibits emergent test-time reasoning capabilities.</p>
     <a href="https://arxiv.org/pdf/2508.06206" class="pdf-link" target="_blank">PDF</a>
     <a href="https://github.com/hq-King/Affordance-R1" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
