@@ -61,7 +61,7 @@ in Multimodal Large Language Model</a>
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge-coming"><b>Under review</b></div>
+      <div class="badge-IMWUT"><b>NIPS 2025</b></div>
       <img src="images/Freqpolicy.png" alt="sym" width="100%" />
     </div>
   </div>
