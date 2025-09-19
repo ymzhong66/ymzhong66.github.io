@@ -70,7 +70,7 @@ in Multimodal Large Language Model</a>
       <a style="text-decoration: underline;" href="https://freq-policy.github.io/">FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens</a>
     </p>
     <p>
-      <b>Yiming Zhong</b>, Yumeng Liu, Chuyang Xiao, Zemin Yang, Youzhuo Wang, Yufei Zhu,Ye Shi, Yujing Sun, Xinge Zhu, Yuexin Ma†
+      <b>Yiming Zhong</b>, Yumeng Liu, Chuyang Xiao, Zemin Yang, Youzhuo Wang, Yufei Zhu, Ye Shi, Yujing Sun, Xinge Zhu, Yuexin Ma†
     </p>
     <p>This paper proposes FreqPolicy, a frequency-domain autoregressive visuomotor policy that progressively models hierarchical frequency components with continuous latent representations, achieving superior accuracy and efficiency in robotic manipulation tasks.</p>
     <a href="https://arxiv.org/pdf/2506.01583" class="pdf-link" target="_blank">PDF</a>
