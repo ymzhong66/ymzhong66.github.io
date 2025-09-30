@@ -77,7 +77,7 @@ in Multimodal Large Language Model</a>
     <a href="https://arxiv.org/pdf/2506.01583" class="pdf-link" target="_blank">PDF</a>
     <a href="https://freq-policy.github.io/" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
-    <a href="https://freq-policy.github.io/" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+    <a href="https://github.com/ymzhong66/Freqpolicy" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
   </div>
 </div>
 
