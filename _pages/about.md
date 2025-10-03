@@ -77,7 +77,7 @@ in Multimodal Large Language Model</a>
     <a href="https://arxiv.org/pdf/2506.01583" class="pdf-link" target="_blank">PDF</a>
     <a href="https://freq-policy.github.io/" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
-    <a href="https://github.com/ymzhong66/Freqpolicy" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+    <a href="https://github.com/4DVLab/Freqpolicy" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
   </div>
 </div>
 
@@ -90,7 +90,7 @@ in Multimodal Large Language Model</a>
   </div>
   <div class="paper-box-text">
     <p>
-      <a style="text-decoration: underline;" href="">DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover</a>
+      <a style="text-decoration: underline;" href="https://dexh2r.github.io/">DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover</a>
     </p>
     <p>
       Youzhuo Wang*, Jiayi Ye*, Chuyang Xiao, <b>Yiming Zhong</b>, Heng Tao, Hang Yu, Yumeng Liu, Jingyi Yu, Yuexin Ma†
