@@ -55,7 +55,7 @@ in Multimodal Large Language Model</a>
     <a href="https://arxiv.org/pdf/2508.06206" class="pdf-link" target="_blank">PDF</a>
     <a href="https://github.com/hq-King/Affordance-R1" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
-    <!-- <a href="https://github.com/hq-King/Affordance-R1" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a> -->
+    <a href="https://github.com/hq-King/Affordance-R1" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
     <a href="https://github.com/hq-King/Affordance-R1" target="_blank">
       <img src="https://img.shields.io/github/stars/hq-King/Affordance-R1?style=social&label=Star" alt="GitHub stars" />
     </a>
