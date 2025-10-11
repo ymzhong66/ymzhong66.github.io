@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <p><span class="anchor" id="about-me"></span></p>
 <p>
-Hello, I am <a class="red-label">Yiming Zhong</a>, a master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, 4DVLab at <a href="https://www.shanghaitech.edu.cn/zs/list.htm">ShanghaiTech University</a>, advised by <a href="http://yuexinma.me/">Yuexin Ma (马月昕)</a>. 
+Hello, I am <a class="red-label">Yiming Zhong</a>, a master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, 4DVLab at <a href="https://www.shanghaitech.edu.cn/zs/list.htm">ShanghaiTech University</a>, advised by <a href="http://yuexinma.me/">Yuexin Ma</a>. 
 
-Currently, I am an AI algorithm engineer intern at Huawei (Yinwang), supervised by <a href="https://xingezhu.me/aboutme.html">Xingezhu (祝新革)</a>. Before that, I received my bachelor's degree from Shandong University.
+Currently, I am an AI algorithm engineer intern at Huawei (Yinwang), supervised by <a href="https://xingezhu.me/aboutme.html">Xingezhu</a>. Before that, I received my bachelor's degree from Shandong University.
 
 I'm interested in computer vision, machine learning, and their applications in robotics, particularly in embodied AI and vision-language-action models. If you have any questions, feel free to drop me an email!
 </p>
