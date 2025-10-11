@@ -56,6 +56,9 @@ in Multimodal Large Language Model</a>
     <a href="https://github.com/hq-King/Affordance-R1" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
     <a href="https://github.com/hq-King/Affordance-R1" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+    <a href="https://github.com/hq-King/Affordance-R1" target="_blank">
+      <img src="https://img.shields.io/github/stars/hq-King/Affordance-R1?style=social&logo=github&logoColor=white" alt="GitHub stars" />
+    </a>
   </div>
 </div>
 
@@ -78,6 +81,9 @@ in Multimodal Large Language Model</a>
     <a href="https://freq-policy.github.io/" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
     <a href="https://github.com/4DVLab/Freqpolicy" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+    <a href="https://github.com/4DVLab/Freqpolicy" target="_blank">
+      <img src="https://img.shields.io/github/stars/4DVLab/Freqpolicy?style=social&logo=github&logoColor=white" alt="GitHub stars" />
+    </a>
   </div>
 </div>
 
@@ -100,6 +106,9 @@ in Multimodal Large Language Model</a>
     <a href="https://dexh2r.github.io/" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
     <a href="https://github.com/4DVLab/DexH2R" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+    <a href="https://github.com/4DVLab/DexH2R" target="_blank">
+      <img src="https://img.shields.io/github/stars/4DVLab/DexH2R?style=social&logo=github&logoColor=white" alt="GitHub stars" />
+    </a>
   </div>
 </div>
 
@@ -122,6 +131,9 @@ in Multimodal Large Language Model</a>
     <a href="https://evolvinggrasp.github.io/" class="paper-box-link" target="_blank">
     Page <i class="fas fa-external-link-alt"></i></a>
     <a href="https://github.com/4DVLab/EvolvingGrasp/" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+    <a href="https://github.com/4DVLab/EvolvingGrasp" target="_blank">
+      <img src="https://img.shields.io/github/stars/4DVLab/EvolvingGrasp?style=social&logo=github&logoColor=white" alt="GitHub stars" />
+    </a>
   </div>
 </div>
 
@@ -148,6 +160,9 @@ in Multimodal Large Language Model</a>
     Page <i class="fas fa-external-link-alt"></i></a>
     <a href="https://github.com/4DVLab/DexGrasp-Anything" class="paper-box-link" target="_blank">Github <i
         class="fab fa-github"></i> </a>
+    <a href="https://github.com/4DVLab/DexGrasp-Anything" target="_blank">
+      <img src="https://img.shields.io/github/stars/4DVLab/DexGrasp-Anything?style=social&logo=github&logoColor=white" alt="GitHub stars" />
+    </a>
   </div>
 </div>
 
