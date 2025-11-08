@@ -39,7 +39,7 @@ I'm interested in computer vision, machine learning, and their applications in r
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge-coming"><b>Under review</b></div>
+      <div class="badge-highlight"><b>AAAI Oral</b></div>
       <img src="images/affordance-r1.png" alt="sym" width="100%" />
     </div>
   </div>
@@ -143,7 +143,7 @@ in Multimodal Large Language Model</a>
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge-IMWUT"><b>CVPR 2025 (Highlight)</b></div>
+      <div class="badge-highlight"><b>CVPR 2025 (Highlight)</b></div>
       <img src="images/dexgraspanyting.png" alt="sym" width="100%" />
     </div>
   </div>

@@ -124,6 +124,18 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.badge-highlight {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: rgb(255, 0, 0);
+    background-color: #009f9a;
+    z-index: 1;            // 确保在图片上方
+    transform: translateY(-100%); // 完全移到图片外面
+    font-size: .8em;
+}
 // .badge-IMWUT {
 //     padding-left: 1rem;
 //     padding-right: 1rem;
