@@ -39,7 +39,7 @@ I'm interested in computer vision, machine learning, and their applications in r
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge-highlight"><b>AAAI Oral</b></div>
+      <div class="badge-highlight"><b>AAAI 2026 (Oral)</b></div>
       <img src="images/affordance-r1.png" alt="sym" width="100%" />
     </div>
   </div>
