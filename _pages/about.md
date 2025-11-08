@@ -178,6 +178,10 @@ in Multimodal Large Language Model</a>
     <a class="red-label">09/2022</a> China Undergraduate Mathematical Contest in Modeling(CUMCM) <b>National First Prize(Top 0.5%)</b>
   </li>
 
+  <li>
+    <a class="red-label">10/2025</a> <b>National Scholarship</b>
+  </li>
+
 </ul>
 
 # 📖 Educations
