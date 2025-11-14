@@ -179,7 +179,7 @@ in Multimodal Large Language Model</a>
   </li>
 
   <li>
-    <a class="red-label">10/2025</a> <b>National Scholarship</b>
+    <a class="red-label">10/2025</a> <b>National Scholarship of China</b>
   </li>
 
 </ul>
