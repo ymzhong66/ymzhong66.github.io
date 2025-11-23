@@ -171,15 +171,18 @@ in Multimodal Large Language Model</a>
 <ul>
 
   <li>
-    <a class="red-label">05/2023</a> Mathematical Contest In Modeling(MCM) <b>Finalist Prize(Top 1%)</b>
+    <a class="red-label">05/2023</a> Mathematical Contest In Modeling (MCM) 
+    <span style="color:red;"><b>Finalist Prize (Top 1%)</b></span>
   </li>
 
   <li>
-    <a class="red-label">09/2022</a> China Undergraduate Mathematical Contest in Modeling(CUMCM) <b>National First Prize(Top 0.5%)</b>
+    <a class="red-label">09/2022</a> China Undergraduate Mathematical Contest in Modeling (CUMCM) 
+    <span style="color:red;"><b>National First Prize (Top 0.5%)</b></span>
   </li>
 
   <li>
-    <a class="red-label">10/2025</a> <b>National Scholarship of China</b>
+    <a class="red-label">10/2025</a> National Scholarship for 2024–2025 
+    <span style="color:red;"><b>Outstanding Academic Performance (Top 1%)</b></span>
   </li>
 
 </ul>
