@@ -16,9 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <p><span class="anchor" id="about-me"></span></p>
 <p>
-Hello, I am <a class="red-label">Yiming Zhong</a>, a master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, 4DVLab at <a href="https://www.shanghaitech.edu.cn/zs/list.htm">ShanghaiTech University</a>, advised by <a href="http://yuexinma.me/">Yuexin Ma</a>. 
-
-Currently, I am an AI algorithm engineer intern at Huawei (Yinwang), supervised by <a href="https://xingezhu.me/aboutme.html">Xinge zhu</a>. Before that, I received my bachelor's degree from Shandong University.
+Hello, I am <a class="red-label">Yiming Zhong</a>, a master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, 4DVLab at <a href="https://www.shanghaitech.edu.cn/zs/list.htm">ShanghaiTech University</a>, supervised by <a href="http://yuexinma.me/">Yuexin Ma</a> and <a href="https://xingezhu.me/aboutme.html">Xinge Zhu</a> from <a href="https://mmlab.ie.cuhk.edu.hk/">MMLAB</a> at The Chinese University of Hong Kong. Before that, I received my bachelor's degree from Shandong University.
 
 I'm interested in computer vision, machine learning, and their applications in robotics, particularly in embodied AI and vision-language-action models. If you have any questions, feel free to drop me an email!
 </p>
@@ -212,8 +210,8 @@ Major: B.E. in Statistics; Second Major: Computer Science
 </div>
 </div>
 
-# 💻 Experience 
-- *2025.08 - Present*, Algorithm Engineer at <a href="https://www.huawei.com/en/giv/intelligent-automotive-solution-2030">ADS AI Department, IAS BU of Huawei (Yinwang)</a>, focusing on Vision-Language-Action (VLA) models for embodied AI.
+<!-- # 💻 Experience 
+- *2025.08 - Present*, Algorithm Engineer at <a href="https://www.huawei.com/en/giv/intelligent-automotive-solution-2030">ADS AI Department, IAS BU of Huawei (Yinwang)</a>, focusing on Vision-Language-Action (VLA) models for embodied AI. -->
 
 <h1 id="-hobbies">🎨 Hobbies</h1>
 <p style="color: black; margin: 0%; font-weight: 350;">
