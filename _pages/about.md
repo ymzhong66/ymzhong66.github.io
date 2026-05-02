@@ -60,7 +60,7 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-highlight"><b>AAAI 2026 (Oral)</b></div>
-      <img src="images/affordance-r1.png" alt="sym" width="100%" ; height: 260px;" />
+      <img class="paper-image" src="images/affordance-r1.png" alt="sym" style="width: 100%; height: 260px;" />
     </div>
   </div>
   <div class="paper-box-text">
