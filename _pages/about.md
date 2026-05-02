@@ -37,6 +37,28 @@ I'm interested in computer vision, machine learning, and their applications in r
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <div class="badge-coming"><b>ICML 2026</b></div>
+      <img src="images/ResVLA.png" alt="sym" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <a style="text-decoration: underline;">ResVLA: From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges</a>
+    </p>
+    <p>
+      Yiming Zhong*, Yaoyu He*, <b>Zemin Yang*</b>, Pengfei Tian, Yifan Huang, Qingqiu Huang, Xinge Zhu, Yuexin Ma†
+    </p>
+    <p>This paper proposes ResVLA, a generative vision-language-action framework that shifts robot control from generation-from-noise to refinement-from-intent by anchoring low-frequency semantic intent and refining high-frequency residual dynamics, achieving strong robustness, faster convergence, and competitive real-world performance. </p>
+    <a href="https://arxiv.org/pdf/2604.21391" class="pdf-link" target="_blank">PDF</a>
+    <a href="https://res-vla.github.io/ResVLA/" class="paper-box-link" target="_blank">Project page</a>
+    <a href="https://github.com/4DVLab/ResVLA" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+  </div>
+</div>
+
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <div class="badge-highlight"><b>AAAI 2026 (Oral)</b></div>
       <img src="images/affordance-r1.png" alt="sym" width="100%" />
     </div>
@@ -183,9 +205,14 @@ in Multimodal Large Language Model</a>
     <span style="color:red;"><b>Outstanding Academic Performance (Top 1%)</b></span>
   </li>
 
+  <li>
+    <a class="red-label">11/2025</a> Outstanding Master Student
+    <span style="color:red;"><b>Top 1%</b></span>
+  </li>
+
 </ul>
 
-# 📖 Educations
+<!-- # 📖 Educations
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -208,7 +235,17 @@ September 2020 - July 2024
 Major: B.E. in Statistics; Second Major: Computer Science
 
 </div>
-</div>
+</div> -->
+
+# 📖 Educations
+
+**ShanghaiTech University**  
+September 2024 - Now  
+Major: Master in Computer Science
+
+**Shandong University**  
+September 2020 - July 2024  
+Major: B.E. in Statistics; Second Major: Computer Science
 
 <!-- # 💻 Experience 
 - *2025.08 - Present*, Algorithm Engineer at <a href="https://www.huawei.com/en/giv/intelligent-automotive-solution-2030">ADS AI Department, IAS BU of Huawei (Yinwang)</a>, focusing on Vision-Language-Action (VLA) models for embodied AI. -->
@@ -219,5 +256,3 @@ Major: B.E. in Statistics; Second Major: Computer Science
   🚴🏻‍♂️ Cycling, 🎮 FPS Games, 🏀 Basketball
   
 </p>
-
-
