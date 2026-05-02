@@ -38,7 +38,7 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-IMWUT"><b>ICML 2026</b></div>
-      <img class="paper-image" src="images/ResVLA.png" alt="sym" style="--paper-image-height: 260px;" />
+      <img src="images/ResVLA.png" alt="sym" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
@@ -48,7 +48,7 @@ I'm interested in computer vision, machine learning, and their applications in r
     <p>
       Yiming Zhong*, Yaoyu He*, <b>Zemin Yang*</b>, Pengfei Tian, Yifan Huang, Qingqiu Huang, Xinge Zhu, Yuexin Ma†
     </p>
-    <p>We introduce ResVLA, a generative vision-language-action framework that shifts robot control from generation-from-noise to refinement-from-intent by anchoring low-frequency semantic intent and refining high-frequency residual dynamics, achieving strong robustness, faster convergence, and competitive real-world performance. </p>
+    <p>We introduce ResVLA, a generative vision-language-action framework that shifts robot control from generation-from-noise to refinement-from-intent by anchoring low-frequency semantic intent and refining high-frequency residual dynamics, achieving strong robustness, faster convergence, and competitive performance. </p>
     <a href="https://arxiv.org/pdf/2604.21391" class="pdf-link" target="_blank">PDF</a>
     <a href="https://res-vla.github.io/ResVLA/" class="paper-box-link" target="_blank">Project page</a>
     <a href="https://github.com/4DVLab/ResVLA" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
@@ -60,7 +60,7 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-highlight"><b>AAAI 2026 (Oral)</b></div>
-      <img class="paper-image" src="images/affordance-r1.png" alt="sym" style="width: 100%; height: 260px;" />
+      <img src="images/affordance-r1.png" alt="sym" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
