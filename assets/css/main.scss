@@ -56,10 +56,16 @@
         width: 100%;
         order: 2;
         img {
+            width: 100%;
             max-width: 350px;
             border-radius: 20px;
             box-shadow: 0 0 2px rgba(0,0,0,0.5);
             object-fit: cover;
+        }
+
+        img.paper-image {
+            height: var(--paper-image-height, auto);
+            object-fit: contain;
         }
     }
     
