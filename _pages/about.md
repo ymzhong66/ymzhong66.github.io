@@ -46,7 +46,7 @@ I'm interested in computer vision, machine learning, and their applications in r
       <a style="text-decoration: underline;">ResVLA: From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges</a>
     </p>
     <p>
-      Yiming Zhong*, Yaoyu He*, <b>Zemin Yang*</b>, Pengfei Tian, Yifan Huang, Qingqiu Huang, Xinge Zhu, Yuexin Ma†
+      <b>Yiming Zhong*</b>, Yaoyu He*, Zemin Yang*, Pengfei Tian, Yifan Huang, Qingqiu Huang, Xinge Zhu, Yuexin Ma†
     </p>
     <p>We introduce ResVLA, a generative vision-language-action framework that shifts robot control from generation-from-noise to refinement-from-intent by anchoring low-frequency semantic intent and refining high-frequency residual dynamics, achieving strong robustness, faster convergence, and competitive performance. </p>
     <a href="https://arxiv.org/pdf/2604.21391" class="pdf-link" target="_blank">PDF</a>
