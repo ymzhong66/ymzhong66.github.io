@@ -206,6 +206,11 @@ in Multimodal Large Language Model</a>
   </li>
 
   <li>
+    <a class="red-label">11/2025</a> Huahong Scholarship
+    <span style="color:red;"><b>(Top 1%)</b></span>
+  </li>
+
+  <li>
     <a class="red-label">11/2025</a> Outstanding Master Student
     <span style="color:red;"><b>(Top 5%)</b></span>
   </li>
