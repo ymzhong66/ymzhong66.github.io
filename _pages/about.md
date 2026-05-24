@@ -250,7 +250,7 @@ Major: Master in Computer Science
 
 **Shandong University**  
 September 2020 - July 2024  
-Major: B.E. in Statistics; Second Major: Computer Science
+Major: B.S. in Statistics; Second Major: Computer Science
 
 <!-- # 💻 Experience 
 - *2025.08 - Present*, Algorithm Engineer at <a href="https://www.huawei.com/en/giv/intelligent-automotive-solution-2030">ADS AI Department, IAS BU of Huawei (Yinwang)</a>, focusing on Vision-Language-Action (VLA) models for embodied AI. -->
