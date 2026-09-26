@@ -34,7 +34,7 @@ I'm interested in computer vision, machine learning, and their applications in r
 <h1 id="-publications">📝 Publications</h1>
 <p style="color: #3f446a; margin: 0%; font-weight: 350;">* Indicates Equal Contribution † Indicates Corresponding Author ‡ Indicates Project Lead</p>
 
-<h2 id="action-modeling">Action Modeling &amp; Large Models</h2>
+<h2 id="action-modeling">World &amp; Action Modeling</h2>
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -117,32 +117,6 @@ I'm interested in computer vision, machine learning, and their applications in r
     <a href="https://github.com/4DVLab/Freqpolicy" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
     <!-- <a href="https://github.com/4DVLab/Freqpolicy" target="_blank">
       <img src="https://img.shields.io/github/stars/4DVLab/Freqpolicy?style=social&label=Star" alt="GitHub stars" />
-    </a> -->
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge-highlight"><b>AAAI 2026 (Oral)</b></div>
-      <img src="images/affordance-r1.png" alt="sym" width="100%" />
-    </div>
-  </div>
-  <div class="paper-box-text">
-    <p>
-      <a style="text-decoration: underline;" href="https://github.com/hq-King/Affordance-R1">Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning
-in Multimodal Large Language Model</a>
-    </p>
-    <p>
-      Hanqing Wang*, Shaoyang Wang*, <b>Yiming Zhong</b>, Zemin Yang, Jiamin Wang, Zhiqing Cui,Jiahao Yuan, Yifan Han, Mingyu Liu, Yuexin Ma†
-    </p>
-    <p>We introduce Affordance-R1, which is capable of generating explicit reasoning alongside the final answer. With the help of proposed affordance reasoning reward, it achieves robust zero-shot generalization and exhibits emergent test-time reasoning capabilities.</p>
-    <a href="https://arxiv.org/pdf/2508.06206" class="pdf-link" target="_blank">PDF</a>
-    <a href="https://github.com/hq-King/Affordance-R1" class="paper-box-link" target="_blank">
-    Page <i class="fas fa-external-link-alt"></i></a>
-    <a href="https://github.com/hq-King/Affordance-R1" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
-    <!-- <a href="https://github.com/hq-King/Affordance-R1" target="_blank">
-      <img src="https://img.shields.io/github/stars/hq-King/Affordance-R1?style=social&label=Star" alt="GitHub stars" />
     </a> -->
   </div>
 </div>
@@ -245,7 +219,7 @@ in Multimodal Large Language Model</a>
   </div>
 </div>
 
-<h2 id="spatial-intelligence">Spatial Intelligence</h2>
+<h2 id="spatial-intelligence">Spatial Perception &amp; Reasoning</h2>
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -286,6 +260,32 @@ in Multimodal Large Language Model</a>
   </div>
 </div>
 
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge-highlight"><b>AAAI 2026 (Oral)</b></div>
+      <img src="images/affordance-r1.png" alt="sym" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <a style="text-decoration: underline;" href="https://github.com/hq-King/Affordance-R1">Affordance-R1: Reinforcement Learning for Generalizable Affordance Reasoning
+in Multimodal Large Language Model</a>
+    </p>
+    <p>
+      Hanqing Wang*, Shaoyang Wang*, <b>Yiming Zhong</b>, Zemin Yang, Jiamin Wang, Zhiqing Cui,Jiahao Yuan, Yifan Han, Mingyu Liu, Yuexin Ma†
+    </p>
+    <p>We introduce Affordance-R1, which is capable of generating explicit reasoning alongside the final answer. With the help of proposed affordance reasoning reward, it achieves robust zero-shot generalization and exhibits emergent test-time reasoning capabilities.</p>
+    <a href="https://arxiv.org/pdf/2508.06206" class="pdf-link" target="_blank">PDF</a>
+    <a href="https://github.com/hq-King/Affordance-R1" class="paper-box-link" target="_blank">
+    Page <i class="fas fa-external-link-alt"></i></a>
+    <a href="https://github.com/hq-King/Affordance-R1" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+    <!-- <a href="https://github.com/hq-King/Affordance-R1" target="_blank">
+      <img src="https://img.shields.io/github/stars/hq-King/Affordance-R1?style=social&label=Star" alt="GitHub stars" />
+    </a> -->
+  </div>
+</div>
 
 <h1 id="-honors-and-awards">🎖 Honors and Awards</h1>
 <ul>
