@@ -32,7 +32,47 @@ I'm interested in computer vision, machine learning, and their applications in r
 
 
 <h1 id="-publications">📝 Publications</h1>
-<p style="color: #3f446a; margin: 0%; font-weight: 350;">* Indicates Equal Contribution † Indicates Corresponding Author</p>
+<p style="color: #3f446a; margin: 0%; font-weight: 350;">* Indicates Equal Contribution † Indicates Corresponding Author ‡ Indicates Project Lead</p>
+
+<h2 id="action-modeling">Action Modeling &amp; Large Models</h2>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge-IMWUT"><b>Under Review</b></div>
+      <img src="images/LatentSightDrive-combined.webp" alt="LatentSightDrive framework" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <span style="text-decoration: underline;">LatentSightDrive: Progressive Foresight Internalization for Autonomous Driving</span>
+    </p>
+    <p>
+      Xue Zhao, <b>Yiming Zhong</b>, Zemin Yang, Xiang Feng, Jin Pan, Xinbing Wang, Xinge Zhu, Yuexin Ma†, Nanyang Ye†
+    </p>
+    <p>We introduce LatentSightDrive, a framework that internalizes future evidence from an external world model for autonomous driving. Scene-adaptive guidance and planning-relevant foresight scoring selectively align internal and external latent representations to support trajectory planning.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge-IMWUT"><b>NeurIPS 2026</b></div>
+      <img src="images/ImplicitDriftingPolicy-combined.webp" alt="Implicit Drifting Policy overview" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <a style="text-decoration: underline;" href="https://implicit-drifting-policy.github.io/">Implicit Drifting Policy: One-Step Action Generation via Conditional Expert Geometry</a>
+    </p>
+    <p>
+      Zemin Yang, Yaoyu He, <b>Yiming Zhong</b>, Yuhao Zhang, Xinge Zhu, Yao Mu, Qingqiu Huang, Yuexin Ma†
+    </p>
+    <p>We introduce Implicit Drifting Policy, a one-step imitation learning framework that uses conditional expert geometry to guide policy training without explicit vector field estimation. It combines efficient action generation with geometric constraints, achieving competitive performance across 2D, 3D, and real-world manipulation tasks.</p>
+    <a href="https://arxiv.org/pdf/2606.01098" class="pdf-link" target="_blank">PDF</a>
+    <a href="https://implicit-drifting-policy.github.io/" class="paper-box-link" target="_blank">Project page</a>
+  </div>
+</div>
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -55,6 +95,31 @@ I'm interested in computer vision, machine learning, and their applications in r
   </div>
 </div>
 
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge-IMWUT"><b>NIPS 2025</b></div>
+      <img src="images/Freqpolicy.png" alt="sym" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <a style="text-decoration: underline;" href="https://freq-policy.github.io/">FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens</a>
+    </p>
+    <p>
+      <b>Yiming Zhong</b>, Yumeng Liu, Chuyang Xiao, Zemin Yang, Youzhuo Wang, Yufei Zhu, Ye Shi, Yujing Sun, Xinge Zhu, Yuexin Ma†
+    </p>
+    <p>This paper proposes FreqPolicy, a frequency-domain autoregressive visuomotor policy that progressively models hierarchical frequency components with continuous latent representations, achieving superior accuracy and efficiency in robotic manipulation tasks.</p>
+    <a href="https://arxiv.org/pdf/2506.01583" class="pdf-link" target="_blank">PDF</a>
+    <a href="https://freq-policy.github.io/" class="paper-box-link" target="_blank">
+    Page <i class="fas fa-external-link-alt"></i></a>
+    <a href="https://github.com/4DVLab/Freqpolicy" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
+    <!-- <a href="https://github.com/4DVLab/Freqpolicy" target="_blank">
+      <img src="https://img.shields.io/github/stars/4DVLab/Freqpolicy?style=social&label=Star" alt="GitHub stars" />
+    </a> -->
+  </div>
+</div>
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -82,28 +147,26 @@ in Multimodal Large Language Model</a>
   </div>
 </div>
 
+<h2 id="dexterous-manipulation">Dexterous Manipulation</h2>
+
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge-IMWUT"><b>NIPS 2025</b></div>
-      <img src="images/Freqpolicy.png" alt="sym" width="100%" />
+      <div class="badge-IMWUT"><b>Under Review</b></div>
+      <img src="images/FastGrasp.jpg" alt="FastGrasp overview" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
     <p>
-      <a style="text-decoration: underline;" href="https://freq-policy.github.io/">FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens</a>
+      <a style="text-decoration: underline;" href="https://taoheng-star.github.io/fastgrasp-page/">FastGrasp: Learning-based Whole-body Control method for Fast Dexterous Grasping with Mobile Manipulators</a>
     </p>
     <p>
-      <b>Yiming Zhong</b>, Yumeng Liu, Chuyang Xiao, Zemin Yang, Youzhuo Wang, Yufei Zhu, Ye Shi, Yujing Sun, Xinge Zhu, Yuexin Ma†
+      Heng Tao*, <b>Yiming Zhong*</b>, Zemin Yang*, Yuexin Ma†
     </p>
-    <p>This paper proposes FreqPolicy, a frequency-domain autoregressive visuomotor policy that progressively models hierarchical frequency components with continuous latent representations, achieving superior accuracy and efficiency in robotic manipulation tasks.</p>
-    <a href="https://arxiv.org/pdf/2506.01583" class="pdf-link" target="_blank">PDF</a>
-    <a href="https://freq-policy.github.io/" class="paper-box-link" target="_blank">
-    Page <i class="fas fa-external-link-alt"></i></a>
-    <a href="https://github.com/4DVLab/Freqpolicy" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i> </a>
-    <!-- <a href="https://github.com/4DVLab/Freqpolicy" target="_blank">
-      <img src="https://img.shields.io/github/stars/4DVLab/Freqpolicy?style=social&label=Star" alt="GitHub stars" />
-    </a> -->
+    <p>We introduce FastGrasp, a learning-based framework that combines grasp guidance, whole-body control, and tactile feedback for fast dexterous mobile manipulation. A two-stage reinforcement learning pipeline coordinates the mobile base, arm, and hand, enabling robust grasping in simulation and the real world.</p>
+    <a href="https://arxiv.org/pdf/2604.12879" class="pdf-link" target="_blank">PDF</a>
+    <a href="https://taoheng-star.github.io/fastgrasp-page/" class="paper-box-link" target="_blank">Project page</a>
+    <a href="https://github.com/taoheng-star/FastGrasp" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i></a>
   </div>
 </div>
 
@@ -157,14 +220,11 @@ in Multimodal Large Language Model</a>
   </div>
 </div>
 
-
-
-
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
       <div class="badge-highlight"><b>CVPR 2025 (Highlight)</b></div>
-      <img src="images/dexgraspanyting.png" alt="sym" width="100%" />
+      <img src="images/DexGraspAnything-combined.webp" alt="sym" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
@@ -185,6 +245,46 @@ in Multimodal Large Language Model</a>
   </div>
 </div>
 
+<h2 id="spatial-intelligence">Spatial Intelligence</h2>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge-IMWUT"><b>Under Review</b></div>
+      <img src="images/UniAfford-combined.webp" alt="UniAfford overview" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <a style="text-decoration: underline;" href="https://4dvlab.github.io/UniAfford/">UniAfford: Token-Routed Multitask Learning for Generalizable 2D-3D Affordance Perception</a>
+    </p>
+    <p>
+      Yuhao Liu, <b>Yiming Zhong‡</b>, Hanqing Wang, Shaocheng Yan, Yuhang Zhang, Wenzhou Lyu, Ziyang Ding, Wei Zhang, Xue Chao, Jin Pan, Yuexin Ma†, Xinge Zhu†
+    </p>
+    <p>We introduce UniAfford, a unified framework for generalizable 2D-3D affordance perception. A shared multimodal language model uses token-based task routing and modality-specific decoders to learn from pixel-level and point-level supervision, supporting image, point-cloud, and joint multimodal inputs.</p>
+    <a href="https://4dvlab.github.io/UniAfford/" class="paper-box-link" target="_blank">Project page</a>
+    <a href="https://github.com/4DVLab/UniAfford" class="paper-box-link" target="_blank">Github <i class="fab fa-github"></i></a>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge-IMWUT"><b>NeurIPS 2026</b></div>
+      <img src="images/VideoAfford-combined.webp" alt="VideoAfford overview" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <a style="text-decoration: underline;" href="https://arxiv.org/pdf/2602.09638">VideoAfford: Grounding 3D Affordance from Human-Object-Interaction Videos via Multimodal Large Language Model</a>
+    </p>
+    <p>
+      Hanqing Wang, Mingyu Liu, Xiaoyu Chen, Chengwei Ma, <b>Yiming Zhong</b>, Wenti Yin, Yuhao Liu, Zhiqing Cui, Jiahao Yuan, Lu Dai, Zhiyuan Ma†, Hui Xiong†
+    </p>
+    <p>We introduce VideoAfford and the VIDA dataset to learn 3D affordances from human-object interaction videos. By combining multimodal language models with latent action priors and a spatial-aware loss, VideoAfford enables fine-grained affordance grounding and reasoning with strong open-world generalization.</p>
+    <a href="https://arxiv.org/pdf/2602.09638" class="pdf-link" target="_blank">PDF</a>
+  </div>
+</div>
 
 
 <h1 id="-honors-and-awards">🎖 Honors and Awards</h1>
