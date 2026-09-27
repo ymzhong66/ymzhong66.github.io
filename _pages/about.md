@@ -198,7 +198,7 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-highlight"><b>CVPR 2025 (Highlight)</b></div>
-      <img src="images/DexGraspAnything-combined.webp" alt="sym" width="100%" />
+      <img src="images/dexgraspanyting.png" alt="sym" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
@@ -225,7 +225,7 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-IMWUT"><b>Under Review</b></div>
-      <img src="images/UniAfford-combined.webp" alt="UniAfford overview" width="100%" />
+      <img src="images/UniAfford.svg" alt="UniAfford overview" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
