@@ -291,28 +291,29 @@ in Multimodal Large Language Model</a>
 <ul>
 
   <li>
-    <a class="red-label">05/2023</a> Mathematical Contest In Modeling (MCM) 
-    <span style="color:red;"><b>Finalist Prize (Top 1%)</b></span>
-  </li>
-
-  <li>
-    <a class="red-label">09/2022</a> China Undergraduate Mathematical Contest in Modeling (CUMCM) 
-    <span style="color:red;"><b>National First Prize (Top 0.5%)</b></span>
-  </li>
-
-  <li>
-    <a class="red-label">10/2025</a> National Scholarship for 2024–2025 
-    <span style="color:red;"><b>Outstanding Academic Performance (Top 1%)</b></span>
-  </li>
-
-  <li>
     <a class="red-label">11/2025</a> Huahong Scholarship
-    <span style="color:red;"><b>(Top 1%)</b></span>
   </li>
 
   <li>
     <a class="red-label">11/2025</a> Outstanding Master Student
-    <span style="color:red;"><b>(Top 5%)</b></span>
+  </li>
+
+  <li>
+    <a class="red-label">10/2025</a> National Scholarship for 2024–2025 
+  </li>
+
+  <li>
+    <a class="red-label">05/2023</a> Mathematical Contest in Modeling (MCM)
+    <!-- COMAP 2023 MCM statistics: 272 Finalists / 11,296 teams = 2.4%.
+         https://www.contest.comap.com/undergraduate/contests/mcm/contests/2023/results/2023_MCM_Problem_A_Results.pdf -->
+    <span style="color:red;"><b>Finalist (2.4% of MCM teams)</b></span>
+  </li>
+
+  <li>
+    <a class="red-label">09/2022</a> China Undergraduate Mathematical Contest in Modeling (CUMCM)
+    <!-- CUMCM 2022 committee report: 299 First Prizes / 49,424 undergraduate teams = 0.60%.
+         https://www.mcm.edu.cn/upload_cn/node/638/EpITtBL2fe213b6e23819e49c9a14a33cccfc72b.pdf -->
+    <span style="color:red;"><b>National First Prize (0.60% of undergraduate teams)</b></span>
   </li>
 
 </ul>
