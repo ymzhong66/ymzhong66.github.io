@@ -1,0 +1,9 @@
+<div class="paper-video-frame">
+  <video class="paper-video" src="{{ include.src | relative_url }}" poster="{{ include.poster | relative_url }}" width="{{ include.width }}" height="{{ include.height }}" controls muted playsinline preload="none" aria-label="{{ include.title | escape }}">
+    <a href="{{ include.src | relative_url }}">Watch {{ include.title }}</a>
+  </video>
+  <button class="paper-video-cover" type="button" aria-label="Play {{ include.title | escape }}" hidden>
+    <img src="{{ include.poster | relative_url }}" alt="{{ include.title | escape }}" width="704" height="440" loading="lazy" decoding="async" />
+  </button>
+  <img class="paper-video-fallback" src="{{ include.poster | relative_url }}" alt="{{ include.title | escape }}" width="100%" hidden />
+</div>

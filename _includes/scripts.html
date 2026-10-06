@@ -1,4 +1,7 @@
 <script src="assets/js/main.min.js"></script>
+<script src="{{ '/assets/js/paper-media-timing.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+<script src="{{ '/assets/js/paper-videos.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+<script src="{{ '/assets/js/paper-galleries.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

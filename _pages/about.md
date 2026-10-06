@@ -78,7 +78,7 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-IMWUT"><b>ICML 2026</b></div>
-      <img src="images/ResVLA.png" alt="sym" width="100%" />
+      {% include paper-media.html gallery="resvla" src="assets/videos/resvla-preview.mp4" poster="images/ResVLA.png" width="704" height="396" title="ResVLA robot manipulation demo" %}
     </div>
   </div>
   <div class="paper-box-text">
@@ -100,7 +100,8 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-IMWUT"><b>NIPS 2025</b></div>
-      <img src="images/Freqpolicy.png" alt="sym" width="100%" />
+      <!-- Preview: real-world grasping, 02:46–02:58.5 of the project video. -->
+      {% include paper-media.html gallery="freqpolicy" src="assets/videos/freqpolicy-preview.mp4" poster="images/Freqpolicy.png" width="704" height="396" title="FreqPolicy real-world dexterous grasping demo" %}
     </div>
   </div>
   <div class="paper-box-text">
@@ -127,7 +128,7 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-IMWUT"><b>Under Review</b></div>
-      <img src="images/FastGrasp.jpg" alt="FastGrasp overview" width="100%" />
+      {% include paper-media.html gallery="fastgrasp" src="assets/videos/fastgrasp-preview.mp4" poster="images/FastGrasp.jpg" width="704" height="396" title="FastGrasp mobile grasping demo" %}
     </div>
   </div>
   <div class="paper-box-text">
@@ -148,7 +149,7 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-IMWUT"><b>ICCV 2025</b></div>
-      <img src="images/DexH2R.png" alt="sym" width="100%" />
+      {% include paper-media.html gallery="dexh2r" src="assets/videos/dexh2r-preview.mp4" poster="images/DexH2R.png" width="704" height="528" title="DexH2R human-to-robot handover demo" %}
     </div>
   </div>
   <div class="paper-box-text">
@@ -173,7 +174,8 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-IMWUT"><b>ICCV 2025</b></div>
-      <img src="images/EvolvingGrasp.png" alt="sym" width="100%" />
+      <!-- Preview: before/after comparison, 00:01.2–00:09.9 and 00:14–00:19.9 of iccv-video.mov. -->
+      {% include paper-media.html gallery="evolvinggrasp" src="assets/videos/evolvinggrasp-preview.mp4" poster="images/EvolvingGrasp.png" width="704" height="396" title="EvolvingGrasp real-world grasping before and after fine-tuning" %}
     </div>
   </div>
   <div class="paper-box-text">
@@ -198,7 +200,8 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-highlight"><b>CVPR 2025 (Highlight)</b></div>
-      <img src="images/dexgraspanyting.png" alt="sym" width="100%" />
+      <!-- Preview: three real-world grasping examples, 03:07–03:22 of demo.mp4. -->
+      {% include paper-media.html gallery="dexgraspanything" src="assets/videos/dexgraspanything-preview.mp4" poster="images/dexgraspanyting.png" width="704" height="396" title="DexGraspAnything real-world dexterous grasping demo" %}
     </div>
   </div>
   <div class="paper-box-text">
@@ -221,11 +224,29 @@ I'm interested in computer vision, machine learning, and their applications in r
 
 <h2 id="spatial-intelligence">Spatial Perception &amp; Reasoning</h2>
 
+<div class="paper-box" id="unifill3d">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge-IMWUT"><b>Under Review</b></div>
+      {% include paper-gallery.html id="unifill3d" title="UniFill3D figures" %}
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p>
+      <span style="text-decoration: underline;">One Framework, Multiple Deficiencies: Towards Unified Information-Deficient 3D Gaussian Reconstruction</span>
+    </p>
+    <p>
+      Linxi Chen*, Xiang Feng*‡, <b>Yiming Zhong*‡</b>, Yiming Ren, Ziyi Wang, Zemin Yang, Yanming Zhu, Yuexin Ma
+    </p>
+    <p>We introduce UniFill3D, a unified framework for 3D Gaussian reconstruction from sparse-view, low-resolution, blurry, and low-light observations. It combines scene-grounded reconstruction with external restoration priors through hierarchical fusion, then uses restored views to refine a consistent 3D Gaussian representation.</p>
+  </div>
+</div>
+
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
       <div class="badge-IMWUT"><b>Under Review</b></div>
-      <img src="images/UniAfford.svg" alt="UniAfford overview" width="100%" />
+      {% include paper-gallery.html id="uniafford" title="UniAfford figures" %}
     </div>
   </div>
   <div class="paper-box-text">
@@ -245,7 +266,7 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-IMWUT"><b>NeurIPS 2026</b></div>
-      <img src="images/VideoAfford-combined.webp" alt="VideoAfford overview" width="100%" />
+      {% include paper-gallery.html id="videoafford" title="VideoAfford figures" %}
     </div>
   </div>
   <div class="paper-box-text">
@@ -265,7 +286,7 @@ I'm interested in computer vision, machine learning, and their applications in r
   <div class="paper-box-image">
     <div>
       <div class="badge-highlight"><b>AAAI 2026 (Oral)</b></div>
-      <img src="images/affordance-r1.png" alt="sym" width="100%" />
+      {% include paper-gallery.html id="affordance_r1" title="Affordance-R1 figures" %}
     </div>
   </div>
   <div class="paper-box-text">

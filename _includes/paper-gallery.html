@@ -1,0 +1,16 @@
+{% assign slides = site.data.paper_galleries[include.id] %}
+<div class="paper-gallery" role="region" aria-roledescription="carousel" aria-label="{{ include.title | escape }}">
+  <div class="paper-gallery-stage">
+    {% for slide in slides %}
+    <a class="paper-gallery-slide" href="{{ slide.src | relative_url }}" target="_blank" rel="noopener noreferrer" data-caption="{{ slide.caption | escape }}" aria-label="{{ slide.alt | escape }} — open full-size image"{% unless forloop.first %} hidden{% endunless %}>
+      <img src="{{ slide.src | relative_url }}" alt="{{ slide.alt | escape }}" width="704" height="440" loading="lazy" decoding="async" />
+    </a>
+    {% endfor %}
+  </div>
+  <div class="paper-gallery-controls" hidden>
+    <button type="button" data-gallery-prev aria-label="Previous image">‹</button>
+    <span class="paper-gallery-caption" aria-live="off">{{ slides.first.caption }} · 1 / {{ slides.size }}</span>
+    <button type="button" data-gallery-next aria-label="Next image">›</button>
+    <button type="button" data-gallery-toggle aria-label="Pause slideshow">Ⅱ</button>
+  </div>
+</div>

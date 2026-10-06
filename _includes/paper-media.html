@@ -1,0 +1,12 @@
+<div class="paper-media">
+  <div class="paper-media-panel" id="{{ include.gallery }}-video" data-media-panel="video">
+    {% include paper-video.html src=include.src poster=include.poster width=include.width height=include.height title=include.title %}
+  </div>
+  <div class="paper-media-panel" id="{{ include.gallery }}-figures" data-media-panel="figures" hidden>
+    {% include paper-gallery.html id=include.gallery title=include.title %}
+  </div>
+  <div class="paper-media-switcher" role="group" aria-label="Preview type" hidden>
+    <button type="button" data-media-mode="video" aria-controls="{{ include.gallery }}-video" aria-pressed="true">Video</button>
+    <button type="button" data-media-mode="figures" aria-controls="{{ include.gallery }}-figures" aria-pressed="false" aria-label="View {{ site.data.paper_galleries[include.gallery].size }} figures">Figures</button>
+  </div>
+</div>
