@@ -26,6 +26,7 @@ author:
   avatar           : "images/Profile_photo.jpg"
   bio              : "ShanghaiTech University"
   location         : "ShangHai, China"
+  cv               : "/assets/CV_zhongym.pdf"
   # employer         : "4DV Lab"
   pubmed           : 
   googlescholar    : "https://scholar.google.cz/citations?user=Z_KPRP4AAAAJ&hl=zh-CN&oi=sra"

@@ -45,11 +45,13 @@ endif %}
         >
       </li>
       {% endif %}
-      <!-- <li>
-        <a href="./assets/CV.pdf"><i class="fas fa-fw fa-file" aria-hidden="true"></i>
-          Curriculum Vitae</a
+      {% if author.cv %}
+      <li>
+        <a href="{{ author.cv | relative_url }}" target="_blank" rel="noopener noreferrer"
+          ><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV</a
         >
-      </li> -->
+      </li>
+      {% endif %}
       {% if author.email %}
       <li>
         <a href="mailto:{{ author.email }}"
@@ -247,6 +249,11 @@ endif %}
       {% endif %}
     </ul>
     <div class="author__urls_sm">
+      {% if author.cv %}
+      <a href="{{ author.cv | relative_url }}" target="_blank" rel="noopener noreferrer" title="CV (PDF)" aria-label="CV (PDF)"
+        ><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i
+      ></a>
+      {% endif %}
       {% if author.uri %}
       <a href="{{ author.uri }}"
         ><i class="fas fa-fw fa-link" aria-hidden="true"></i
